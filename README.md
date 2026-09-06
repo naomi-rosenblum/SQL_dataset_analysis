@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository features a presentation that details a comprehensive SQL analysis project based on the well-known **Northwind sample database**. The goal was to address various business questions using SQL queries.
+This repository features a presentation that details a comprehensive SQL analysis project based on the Northwind  database. The goal was to address various business questions using SQL queries.
 
 The project demonstrates skills in data analysis, SQL querying, data visualization, and presenting technical insights to non-technical stakeholders.
 
