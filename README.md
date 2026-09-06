@@ -1,4 +1,4 @@
-# Northwind Traders SQL Database Project
+# SQL Database Project
 
 ## Project Overview
 
